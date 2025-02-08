@@ -42,6 +42,13 @@ WARNING: Some data may be outdaded
 
 All the content / data is both on greek and english language.
 
+### Where do you get the data?
+
+#### Operational Popup
+![operationals-popup](https://github.com/georgetomzaridis/thessmetro-status-unofficial-api/blob/main/operation_status_website.png?raw=true)
+#### Elevators Status for all stations
+![operationals-popup](https://github.com/georgetomzaridis/thessmetro-status-unofficial-api/blob/main/operation_status_website2.png?raw=true)
+
 ### API Call
 
 ``` https
